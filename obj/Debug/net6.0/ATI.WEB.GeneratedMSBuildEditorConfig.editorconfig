@@ -1,0 +1,44 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ATI.WEB
+build_property.RootNamespace = ATI.WEB
+build_property.ProjectDir = D:\ATI\ATI.WEB\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ATI\ATI.WEB
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ATI/ATI.WEB/Views/Home/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ATI/ATI.WEB/Views/Home/Gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxsZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ATI/ATI.WEB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ATI/ATI.WEB/Views/Home/ObjetivosHSEQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPYmpldGl2b3NIU0VRLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ATI/ATI.WEB/Views/Home/PoliticaHSEQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb2xpdGljYUhTRVEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ATI/ATI.WEB/Views/Home/PoliticaProhibida.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb2xpdGljYVByb2hpYmlkYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ATI/ATI.WEB/Views/Home/QuienesSomos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxRdWllbmVzU29tb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
